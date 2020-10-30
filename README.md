@@ -57,4 +57,5 @@ https://youtu.be/izkcyxeSERk
 #### 2020/10/28
 
 TO: aws初学者同学们（高手们略过）
-我把自己的学习过程跟大家分享一下，https://github.com/cosmosdingli/AWS-Certification，希望有所帮助。 
+我把自己的学习过程跟大家分享一下，https://github.com/cosmosdingli/AWS-Certification
+，希望有所帮助。 
