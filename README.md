@@ -1,4 +1,8 @@
 # 群公告[小钉子的aws学习笔记]
+#### 2020/11/02
+17.How do I Code Any Cloudformation
+从0开始，看文档写Cloudformation。
+https://youtu.be/AQ-W5ncbKGw
 
 #### 2020/10/30
 
