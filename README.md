@@ -1,5 +1,17 @@
 # 群公告[小钉子的aws学习笔记]
+
+
+#### 2020/12/17
+
+19.AWS Certified Data Analytics - Specialty系列之一
+Firehose + S3 + Glue + Athena
+https://youtu.be/014dxYOcDDc
+
 #### 2020/11/02
+
+18.aws爱好者调查问卷
+https://youtu.be/-jZd02teEaI
+
 17.How do I Code Any Cloudformation
 从0开始，看文档写Cloudformation。
 https://youtu.be/AQ-W5ncbKGw
